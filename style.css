@@ -10,7 +10,7 @@ body {
     text-align: center;
 }
 header {
-    background: black;
+    background: purple;
     color: white;
 }
 #title {
@@ -40,7 +40,7 @@ header {
   
   li a:hover {
     background-color: white;
-    color: black;
+    color: purple;
   }
 
   .intro {
