@@ -62,7 +62,7 @@ header {
     margin: 0;
     padding: 0;
     width: 25%;
-    background-color: black;
+    background-color: purple;
     color: white;
     height: 100%; /* Full height */
     position: fixed; /* Make it stick, even on scroll */
