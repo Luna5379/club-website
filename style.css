@@ -2,7 +2,6 @@
     margin: 0px;
     padding: 0px;
     background: purple;
-    color: lightblue;
   }
 img {
     max-width: 70%;
@@ -13,7 +12,7 @@ body {
 }
 header {
     background: purple;
-    color: lightblue;
+    color: white;
 }
 #title {
     font-family: 'Press Start 2P', monospace;
