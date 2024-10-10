@@ -1,8 +1,8 @@
 *{
     margin: 0px;
     padding: 0px;
-    background: purple;
-    color: lightblue;
+    background: white;
+    color: black;
   }
 img {
     max-width: 70%;
@@ -12,8 +12,8 @@ body {
     text-align: center;
 }
 header {
-    background: purple;
-    color: lightblue;
+    background: black;
+    color: white;
 }
 #title {
     font-family: 'Press Start 2P', monospace;
@@ -42,7 +42,7 @@ header {
   
   li a:hover {
     background-color: white;
-    color: purple;
+    color: black;
   }
 
   .intro {
@@ -64,8 +64,8 @@ header {
     margin: 0;
     padding: 0;
     width: 25%;
-    background-color: purple;
-    color: white;
+    background-color: white;
+    color: black;
     height: 100%; /* Full height */
     position: fixed; /* Make it stick, even on scroll */
     overflow: auto; /* Enable scrolling if the sidenav has too much content */
